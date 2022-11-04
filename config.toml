@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'www.vishakhasawra.com'
 languageCode = 'en-us'
 title = 'CodeWithVishakha'
 theme = "FixIt"
