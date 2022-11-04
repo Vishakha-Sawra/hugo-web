@@ -316,7 +316,7 @@ theme = "FixIt"
     TryHackMe = ""
     Phone = ""
     Email = "vishakhasawra@gmail.com"
-    RSS = true
+    RSS = false
 
   # FixIt 0.2.0 | CHANGED Page config
   [params.page]
