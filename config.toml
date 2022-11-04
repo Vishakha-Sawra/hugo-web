@@ -68,7 +68,7 @@ theme = "FixIt"
   # FixIt 0.2.15 | CHANGED FixIt theme version
   version = "0.2.X" # e.g. "0.2.X", "0.2.15", "v0.2.15" etc.
   # site description
-  description = "This is my new Hugo FixIt site"
+  description = ""
   # site keywords
   keywords = ["Hugo", "FixIt"]
   # site default theme ["light", "dark", "auto"]
