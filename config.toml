@@ -1,6 +1,6 @@
-baseURL = 'http://www.vishakhasawra.com/'
+baseURL = 'https://www.vishakhasawra.com/'
 languageCode = 'en-us'
-title = 'CodeWithVishakha'
+title = 'FrontendWithVishakha'
 theme = "FixIt"
 
 # =====================================================================================
@@ -140,7 +140,7 @@ theme = "FixIt"
       # URL of the LOGO
       logo = ""
       # title name
-      name = "CodeWithVishakha"
+      name = "FEWV"
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
@@ -213,7 +213,7 @@ theme = "FixIt"
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = "vishakhasawra@gmail.com"
       # URL of avatar shown in home page
-      avatarURL = ""
+      avatarURL = "/logo.png"
       # FixIt 0.2.7 | CHANGED title shown in home page (HTML format is supported)
       title = ""
       # subtitle shown in home page

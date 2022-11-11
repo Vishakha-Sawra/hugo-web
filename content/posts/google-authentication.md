@@ -13,7 +13,8 @@ comment: false
 weight: 0
 
 tags:
-  - Firebase, Google
+  - Firebase
+  - Google
 categories:
   - Firebase
 
