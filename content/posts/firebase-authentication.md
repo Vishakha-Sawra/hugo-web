@@ -105,7 +105,7 @@ In the HTML page don't forget to link your stylesheet and script file. In (Scrip
 
 ### CSS Code
 
-If in CSS you want to change the font-family, change it in import url and then in body or you can just remove the import url and change font-family in body class.
+If in CSS you want to change the font-family, change it in import url and then in body or you can just remove the import url and change font-family in body.
 
 ```css
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
